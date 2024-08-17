@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+"100n","C1,C2","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",""
+"2.5","H1,H2,H3,H4,H5","MountingHole:MountingHole_2.5mm",""
+"Pi-4 Extension","J1","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical",""
+"Z-Turn Extension","J2","Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical",""
+"pmod-4 input","J3","Connector_IDC:IDC-Header_2x06_P2.54mm_Vertical",""
+"+5V","J4","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
