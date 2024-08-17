@@ -1,5 +1,5 @@
 # kicad-kria-pi4-ext
-Extension adapter module for the Kria KR260, providing a Pi-4 port to multiple Alinx modules and PMOD interfaces.
+Extension adapter module for the Kria KR260, providing a Pi-4 port to Z-turn port intended for using multiple Alinx modules and PMOD interfaces.
 
 
 ![alt text](kicad-kria-pi4-ext_3d.png)
